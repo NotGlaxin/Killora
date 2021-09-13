@@ -1,0 +1,8 @@
+module.exports = {
+    config: {
+        name: '',
+        description: '',
+        aliases: [""],
+    },
+    run: async (bot, message, args) => {}
+}
